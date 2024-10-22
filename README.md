@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Event Scheduling System** is a C++ program designed to help users manage events, participants, and reminders efficiently. It offers features like scheduling events, checking for conflicts, adding or removing participants, and sending event reminders. The system ensures that no two events conflict in terms of date and time, and provides a menu-driven interface for user interaction.
+The **Event Scheduling System** is a C++ program designed to help users manage events, participants, and reminders efficiently. it offers features like scheduling events, checking for conflicts, adding or removing participants, and sending event reminders. The system ensures that no two events conflict in terms of date and time, and provides a menu-driven interface for user interaction.
 
 ## Features
 
